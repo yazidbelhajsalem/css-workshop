@@ -1,0 +1,61 @@
+h2 {
+  color: blue;
+}
+.logo1 {
+  width: 100%;
+}
+.resident{
+    width: 20%;
+
+}
+.titre1 {
+  color: red;
+  size: 80px;
+}
+
+.titre1 {
+  text-align: center;
+}
+article > h1 ~ p {
+  font-weight: bolder;
+  background-color: rgb(238, 109, 109);
+  color: rgb(233, 227, 227);
+  padding: 0.5em;
+}
+div {
+  height: 100px;
+  width: 50%;
+  background-color: lightgrey;
+  width: 90px;
+  border: 10px solid rgb(255, 255, 255);
+  padding: 50px;
+  margin: 0px;
+}
+
+body {
+  background-image: url("foo.jpg");
+  background-color: #eee3e3;
+  background-color: aquamarine;
+}
+p {
+  font-style: italic;
+  font-weight: bolder;
+  font-size: xx-large;
+  text-decoration: overline;
+  letter-spacing: 8px;
+  word-spacing: 80px;
+  border: 1px solid rgb(216, 208, 208);
+  margin: 20px;
+}
+#box-2 {
+  display: none;
+  width: 10px;
+  height: 10px;
+  background: blue;
+}
+.mehdi {
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+    display: inline-block;
+  }
